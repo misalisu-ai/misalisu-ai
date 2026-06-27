@@ -11,12 +11,12 @@ I am a Computer Science researcher and software engineer focusing on **Machine L
 
 ## 🛠️ Featured Repositories
 
-### 🚀 [Intelligent Multi-Model Spam Email Classifier](LINK_TO_REPO)
+### 🚀 [Intelligent Multi-Model Spam Email Classifier](https://github.com/misalisu-ai/Spam-Email-Classifier)
 * **Role:** Project Lead (TechCrush Capstone)
 * **What it does:** Deploys a parallel processing framework comparing a multi-layer Keras Sequential Neural Network against a statistical baseline on Streamlit Cloud.
 * **Optimization Highlights:** Optimized sparse matrix memory allocation by enforcing a strict 3,000 vocabulary feature boundary; resolved live cloud multi-dimensional tensor slicing and environment runtime anomalies.
 
-### ⚡ [Physics-Augmented Inverse Photonic Design](LINK_TO_REPO)
+### ⚡ [Physics-Augmented Inverse Photonic Design](https://github.com/misalisu-ai/mrr-physics-informed-ml)
 * **What it does:** Replaces expensive computational physics solvers with a fast, data-driven machine learning surrogate routine for Micro-Ring Resonators ($R^2 = 0.9939$).
 * **Optimization Highlights:** Integrated scaling transformations for cross-magnitude numeric regression stability and validated algorithmic robustness with feature-level SHAP explainability.
 
