@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Ibrahim Salisu 👋
+# Hi, I'm Muhammad Salisu Ibrahim 👋
 
 I am a Computer Science researcher and software engineer focusing on **Machine Learning Optimization, Deep Learning Efficiency, and Model Robustness**. I build neural networks and surrogate frameworks that optimize performance under real-world computational constraints.
 
