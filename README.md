@@ -1,71 +1,39 @@
 # Hi, I'm Muhammad Ibrahim Salisu 👋
 
-### B.Sc. Computer Science Graduate | AI for Scientific Discovery | Photonics & Physics-Informed ML
+I am a Computer Science researcher and software engineer focusing on **Machine Learning Optimization, Deep Learning Efficiency, and Model Robustness**. I build neural networks and surrogate frameworks that optimize performance under real-world computational constraints.
 
-I am a high-performing Computer Science graduate from **Usmanu Danfodiyo University, Sokoto (UDUSOK)**, focused on applying **machine learning and explainable AI to scientific and physical systems**, particularly in **nanophotonics and inverse design**.
-
----
-
-### 🧠 Research Interests
-
-* **Physics-Informed Machine Learning (PIML):** Integrating physical laws into ML models for scientific accuracy
-* **Computational Photonics & Optical Computing:** AI-driven design of photonic devices
-* **Explainable AI (XAI):** Interpretable models for scientific validation
-* **AI for Scientific Discovery:** Bridging ML with physics, engineering, and real-world systems
+## 🔬 Core Research & Project Focus
+*   **Architectural Efficiency:** Capping structural constraints (e.g., tokenizers, layer sizing) to reduce memory overhead during deployment.
+*   **Physics-Informed ML:** Using domain-specific mathematical constraints to replace resource-heavy simulations with high-fidelity, accelerated models.
+*   **Model Dependability:** Applying SHAP and Interpretability metrics to inspect gradient reliability and counter adversarial flaws.
 
 ---
 
-### 🚀 Key Projects
+## 🛠️ Featured Repositories
 
-#### 🔬 ML-Accelerated Inverse Design of Micro-Ring Resonators (MRRs)
+### 🚀 [Intelligent Multi-Model Spam Email Classifier](LINK_TO_REPO)
+* **Role:** Project Lead (TechCrush Capstone)
+* **What it does:** Deploys a parallel processing framework comparing a multi-layer Keras Sequential Neural Network against a statistical baseline on Streamlit Cloud.
+* **Optimization Highlights:** Optimized sparse matrix memory allocation by enforcing a strict 3,000 vocabulary feature boundary; resolved live cloud multi-dimensional tensor slicing and environment runtime anomalies.
 
-* Developed a **physics-informed Random Forest model** for predicting resonance wavelength and Q-factor
-* Engineered domain-specific features (FSR, round-trip length, coupling ratios, mode confinement)
-* Achieved **R² = 0.9939** with strong physical consistency
-* Applied **SHAP explainability** to validate optical relationships
-* Enabled **inverse design**: predicting optimal geometry from target performance
-
-#### ❤️ Multi-Stage Heart Disease Prediction with XAI
-
-* Built an interpretable ML pipeline using **SHAP** for clinical decision support
-* Focused on **model transparency and reliability in healthcare systems**
+### ⚡ [Physics-Augmented Inverse Photonic Design](LINK_TO_REPO)
+* **What it does:** Replaces expensive computational physics solvers with a fast, data-driven machine learning surrogate routine for Micro-Ring Resonators ($R^2 = 0.9939$).
+* **Optimization Highlights:** Integrated scaling transformations for cross-magnitude numeric regression stability and validated algorithmic robustness with feature-level SHAP explainability.
 
 ---
 
-### 🔭 Future Goals
+## 🧮 Tech Stack & Tooling
+*   **Languages:** Python (NumPy, Pandas, SciPy, Matplotlib), SQL, Bash
+*   **Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Scikit-Learn, SHAP
+*   **Deployment & Ops:** Streamlit Cloud, Git/Version Control, Environment Virtualization
 
-I am seeking **Ph.D. and research opportunities** in:
-
-* Computational Photonics
-* Inverse Design & Scientific Machine Learning
-* Optical Computing and AI Hardware
-
-My long-term goal is to contribute to **AI-driven design of energy-efficient photonic systems** for next-generation computing.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** `Python`, `SQL`
-* **Machine Learning:** `Scikit-learn`, `Random Forest`, `Feature Engineering`
-* **Explainable AI:** `SHAP`
-* **Data Science:** `NumPy`, `Pandas`, `Matplotlib`
-* **Learning:** `TensorFlow`, `PyTorch`
+## 📈 Ongoing Professional Development
+*   **Fellowship:** 3MTT Nigeria (AI/ML Track)
+*   **Specialization:** Deep Learning Specialization (Andrew Ng / DeepLearning.AI)
+*   **Self-Directed Research:** Introduction to Photonics (MIT OpenCourseWare)
 
 ---
 
-### 📊 Academic Profile
-
-* **B.Sc. Computer Science**, UDUSOK
-* **CGPA:** 4.45 / 5.0
-
----
-
-### 📫 Get in Touch
-
-* **Email:** [salisumuhammadibrahim@outlook.com](mailto:salisumuhammadibrahim@outlook.com)
-* **LinkedIn:** https://www.linkedin.com/in/muhammad-ibrahim-salisu-b640561a3/
-
----
-
-*“Focused on combining machine learning with physical sciences to accelerate discovery and design in next-generation technologies.”*
+📬 **How to reach me:** 
+* Email: salisumuhammadibrahim@outlook.com
+* LinkedIn: [muhammad-ibrahim-salisu](https://www.linkedin.com/in/muhammad-ibrahim-salisu-b640561a3)
